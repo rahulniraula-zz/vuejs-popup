@@ -1,0 +1,23 @@
+{
+  "name": "vuejs-popup",
+  "version": "1.0.1",
+  "description": "Pop up wrapper for Vue js",
+  "main": "components/popup.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulniraula/vuejs-popup.git"
+  },
+  "keywords": [
+    "VueJs",
+    "Popup"
+  ],
+  "author": "Rahul Niraula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulniraula/vuejs-popup/issues"
+  },
+  "homepage": "https://github.com/rahulniraula/vuejs-popup#readme"
+}
